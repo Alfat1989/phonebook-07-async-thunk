@@ -2,6 +2,7 @@
   "name": "phonebook-07-async-thunk",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Alfat1989.github.io/phonebook-07-async-thunk/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
